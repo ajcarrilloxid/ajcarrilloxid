@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Andrés Carrillo
 - 👀 I’m interested in Vue.js and Laravel
-- 🌱 I’m currently learning React.js, Express.js
